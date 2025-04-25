@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ### Execute
 
 ```bash
-python analyze_and_visualize_players.py
+python insight.py
 ```
 
 This script will:
@@ -97,7 +97,7 @@ This project was created as part of my **self-learning journey** to strengthen c
 
 I'm **Priyanka S. Shinde**, a data science enthusiast with a background in healthcare analytics, passionate about applying data to drive impact across any industry.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/)  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/priyanka-shinde-2912a6246/)  
 📧 Email: priyankashinde160321@gmail.com
 
 ---
